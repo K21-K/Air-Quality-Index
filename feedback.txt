@@ -1,5 +1,4 @@
 Can you add a feature to extract the graphs into pdf's
 Hi Its nice
-dfgd
-dfbdb
+Include the weather of the city to match the AQI
 i want
